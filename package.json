@@ -1,0 +1,16 @@
+{
+  "name": "example-gherkin-js-asciidoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cucumber-js"
+  },
+  "author": "",
+  "private": "true",
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.11.1"
+  }
+}

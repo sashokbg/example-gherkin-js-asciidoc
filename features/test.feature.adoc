@@ -1,0 +1,10 @@
+= Feature: Test
+
+This is a test scenario
+
+== Rule: First Rule
+
+=== Example: First Example
+- Given A
+image:img.png[]
+- When B
